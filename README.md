@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bonjour! 👋
+
+Étudiant organisé et passionné, je suis fasciné par cette machine extraordinaire qu’est le corps humain. Bien que je m’intéresse à la complexité des différents systèmes biologiques, ma curiosité est tout aussi grande pour les mathématiques et leurs innombrables applications.
+
+Mon côté rationnel et scientifique ne reflète cependant qu’une seule partie de ma personnalité; ma passion pour la musique fait également de moi un étudiant créatif et dynamique. C’est d’ailleurs à travers mon cheminement musical en tant que pianiste que j’ai pu développer mon aisance lors de présentations devant public.
+
+Mon curriculum multidisciplinaire, en plus de mes habiletés de travail en équipe, est actuellement mis à profit dans mon domaine d’étude, l’ingénierie biomédicale.
 
 <!--
 **AntoineGuenette/AntoineGuenette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
